@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.wlzx.RedisClusterUtil
+Class-Path: commons-pool2-2.4.2.jar jedis-2.9.0.jar
+

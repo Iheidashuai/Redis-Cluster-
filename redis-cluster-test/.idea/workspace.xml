@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="redis-cluster-test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d42b9d1-49e2-44c8-878e-969c017c67c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fPAZo1QmF9g1T6hOPNKjJAXYe0" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wlzx" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d42b9d1-49e2-44c8-878e-969c017c67c9" name="Default Changelist" comment="" />
+      <created>1596109411071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596109411071</updated>
+      <workItem from="1596109412421" duration="1288000" />
+      <workItem from="1596110831291" duration="1423000" />
+      <workItem from="1596157838652" duration="12660000" />
+      <workItem from="1596188391877" duration="747000" />
+      <workItem from="1596190355344" duration="222000" />
+      <workItem from="1596191739175" duration="1488000" />
+      <workItem from="1596211168911" duration="691000" />
+      <workItem from="1596379901944" duration="24000" />
+      <workItem from="1596420557665" duration="4762000" />
+      <workItem from="1596445381018" duration="85000" />
+      <workItem from="1596445896828" duration="1592000" />
+      <workItem from="1596503224970" duration="5427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1596110097850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596110097850" />
+    <state x="508" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596163775219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596163775219" />
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596508417395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1596508417395" />
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1596111440666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596111440666" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596508422216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596508422216" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1596508429121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596508429121" />
+    <state x="791" y="344" key="classpath-attribute-editor" timestamp="1596111501773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="791" y="344" key="classpath-attribute-editor/0.0.1536.824@0.0.1536.824" timestamp="1596111501773" />
+  </component>
+</project>
